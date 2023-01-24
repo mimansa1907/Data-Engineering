@@ -1,0 +1,34 @@
+## Hands-on Lab: Upload and Export using Datasette
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0231EN-SkillsNetwork/Datasetteoptionallabs/Week2/Upload_and_Export_using_Datasette.md.html
+
+## DB2 System Tables
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0231EN-SkillsNetwork/labs/Db2/Lab%20-%20Db2%20System%20Tables/instructions.md.html?origin=www.coursera.org
+
+## PostgreSQL Instance Configuration and System Catalog
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0231EN-SkillsNetwork/labs/PostgreSQL/Lab%20-%20PostgreSQL%20Instance%20Configuration%20and%20System%20Catalog/instructions.md.html
+
+## Backup and Restore using PostgreSQL
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0231EN-SkillsNetwork/labs/PostgreSQL/Lab%20-%20Backup%20and%20Restore%20using%20PostgreSQL/Backup_Restore_postgreSQL.md.html
+
+## Backup and Restore using MySQL
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0231EN-SkillsNetwork/labs/MySQL/Lab%20-%20Backup%20and%20Restore%20using%20MySQL/instructional-labs.md.html
+
+## MySQL User Management, Access Control, and Encryption
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0231EN-SkillsNetwork/labs/MySQL/Lab%20-%20MySQL%20User%20Management%20-%20Access%20Control%20-%20Encryption/instructional-labs.md.html
+
+## 
+
+
+
+
+
+
+
+
+
+mimansa
+NzU3My1taW1hbnNh
+
+mysqldump --host=127.0.0.1 --port=3306 --user=mimansa --password=NzU3My1taW1hbnNh world countrylanguage > world_countrylanguage_mysql_backup.sql
+mysqlcli - mysql --host=127.0.0.1 --port=3306 --user=root --password --execute="DROP TABLE world.countrylanguage;"
+           mysql --host=127.0.0.1 --port=3306 --user=root --password --execute="SHOW TABLES FROM world;"

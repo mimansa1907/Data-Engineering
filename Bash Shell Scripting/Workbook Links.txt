@@ -1,0 +1,18 @@
+## Bash Scripting Advanced
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/Bash%20Scripting/Bash%20Scripting%20Advanced/Bash%20Scripting%20Advanced.md.html
+
+## What are Pipes?
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/module%201/pipes-reading.md.html?origin=www.coursera.org
+
+## Getting Started with Shell Scripting
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/Bash%20Scripting/Lab%20-%20Bash%20Scripting/Bash%20Scripting.md.html
+
+## File Content, Compression, & Networking Commands
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/module%201/File-Content-Compression-and-Networking-Commands.md.html
+
+## Informational, File, and Directory Commands
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/module%201/Informational-File-and-Directory-Commands.md.html
+
+## Introducing Linux Terminal
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-LX0117EN-SkillsNetwork/labs/module%201/introducing-linux-terminal.md.html
+

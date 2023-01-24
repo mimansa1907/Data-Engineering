@@ -1,0 +1,1004 @@
+{
+      "results": [
+            {
+                  "id": 2696667,
+                  "series_id": 1301,
+                  "venue": "Harare Sports Club",
+                  "date": "2023-01-21T07:15:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Zimbabwe v Ireland at Harare Sports Club, .",
+                  "match_subtitle": "2nd ODI",
+                  "home": {
+                        "id": 294,
+                        "name": "Zimbabwe",
+                        "code": "ZIM"
+                  },
+                  "away": {
+                        "id": 354,
+                        "name": "Ireland",
+                        "code": "IRE"
+                  }
+            },
+            {
+                  "id": 2697307,
+                  "series_id": 1303,
+                  "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur (day/night)",
+                  "date": "2023-01-21T08:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "India v New Zealand at Shaheed Veer Narayan Singh International Stadium, Raipur (day/night), .",
+                  "match_subtitle": "2nd ODI",
+                  "home": {
+                        "id": 285,
+                        "name": "India",
+                        "code": "IND"
+                  },
+                  "away": {
+                        "id": 282,
+                        "name": "New Zealand",
+                        "code": "NZL"
+                  }
+            },
+            {
+                  "id": 2670891,
+                  "series_id": 1103,
+                  "venue": "Old Hararians, Harare",
+                  "date": "2023-01-21T08:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Mashonaland Eagles v Mountaineers at Old Hararians, Harare, First Class.",
+                  "match_subtitle": "",
+                  "home": {
+                        "id": 142686,
+                        "name": "Mashonaland Eagles",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 132537,
+                        "name": "Mountaineers",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2670893,
+                  "series_id": 1103,
+                  "venue": "Kwekwe Sports Club",
+                  "date": "2023-01-21T08:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Matabeleland Tuskers v Mid West Rhinos at Kwekwe Sports Club, First Class.",
+                  "match_subtitle": "",
+                  "home": {
+                        "id": 142689,
+                        "name": "Matabeleland Tuskers",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 142692,
+                        "name": "Mid West Rhinos",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2672375,
+                  "series_id": 1390,
+                  "venue": "Senwes Park, Potchefstroom",
+                  "date": "2023-01-21T08:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "England Women Under-19s v Ireland Women Under-19s at Senwes Park, Potchefstroom, .",
+                  "match_subtitle": "Super Six, Group 2",
+                  "home": {
+                        "id": 190521,
+                        "name": "England Women Under-19s",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190509,
+                        "name": "Ireland Women Under-19s",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2672377,
+                  "series_id": 1393,
+                  "venue": "North-West University No1 Ground, Potchefstroom",
+                  "date": "2023-01-21T08:00:00+00:00",
+                  "status": "Fixtur
+                  "result": "",
+                  "match_title": "NZ-WMN U19 v Rwanda Women Under-19s at North-West University No1 Ground, Potchefstroom, .",
+                  "match_subtitle": "Super Six, Group 2",
+                  "home": {
+                        "id": 190518,
+                        "name": "NZ-WMN U19",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190506,
+                        "name": "Rwanda Women Under-19s",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2649359,
+                  "series_id": 1082,
+                  "venue": "Sydney Cricket Ground (night)",
+                  "date": "2023-01-21T08:05:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Sydney Sixers v Sydney Thunder at Sydney Cricket Ground (night), T20.",
+                  "match_subtitle": "50th Match",
+                  "home": {
+                        "id": 120063,
+                        "name": "Sydney Sixers",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 120060,
+                        "name": "Sydney Thunder",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2693863,
+                  "series_id": 1236,
+                  "venue": "Dubai International Cricket Stadium",
+                  "date": "2023-01-21T10:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Dubai Capitals v Sharjah Warriors at Dubai International Cricket Stadium, T20.",
+                  "match_subtitle": "10th Match",
+                  "home": {
+                        "id": 210399,
+                        "name": "Dubai Capitals",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 210408,
+                        "name": "Sharjah Warriors",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2687925,
+                  "series_id": 1214,
+                  "venue": "Boland Park, Paarl",
+                  "date": "2023-01-21T11:30:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Paarl Royals v MI Cape Town at Boland Park, Paarl, T20.",
+                  "match_subtitle": "16th Match",
+                  "home": {
+                        "id": 203841,
+                        "name": "Paarl Royals",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 203838,
+                        "name": "MI Cape Town",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2672379,
+                  "series_id": 1387,
+                  "venue": "Senwes Park, Potchefstroom",
+                  "date": "2023-01-21T11:45:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "SA-WMN U19 v Bangladesh Women Under-19s at Senwes Park, Potchefstroom, .",
+                  "match_subtitle": "Super Six, Group 1",
+                  "home": {
+                        "id": 190494,
+                        "name": "SA-WMN U19",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190485,
+                        "name": "Bangladesh Women Under-19s",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2672381,
+                  "series_id": 1386,
+                  "venue": "North-West University No1 Ground, Potchefstroom",
+                  "date": "2023-01-21T11:45:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Australia Women Under-19s v India Women Under-19s at North-West University No1 Ground, Potchefstroom, .",
+                  "match_subtitle": "Super Six, Group 1",
+                  "home": {
+                        "id": 190482,
+                        "name": "Australia Women Under-19s",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190497,
+                        "name": "India Women Under-19s",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2689037,
+                  "series_id": 1401,
+                  "venue": "Buffalo Park, East London",
+                  "date": "2023-01-21T13:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "South Africa Women v West Indies Women at Buffalo Park, East London, .",
+                  "match_subtitle": "2nd Match",
+                  "home": {
+                        "id": 140484,
+                        "name": "South Africa Women",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190629,
+                        "name": "West Indies Women",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2693865,
+                  "series_id": 1236,
+                  "venue": "Zayed Cricket Stadium, Abu Dhabi (night)",
+                  "date": "2023-01-21T14:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Abu Dhabi Knight Riders v MI Emirates at Zayed Cricket Stadium, Abu Dhabi (night), T20.",
+                  "match_subtitle": "11th Match",
+                  "home": {
+                        "id": 210402,
+                        "name": "Abu Dhabi Knight Riders",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 210405,
+                        "name": "MI Emirates",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2687927,
+                  "series_id": 1214,
+                  "venue": "St George's Park, Gqeberha (day/night)",
+                  "date": "2023-01-21T15:30:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Sunrisers Eastern Cape v Joburg Super Kings at St George's Park, Gqeberha (day/night), T20.",
+                  "match_subtitle": "17th Match",
+                  "home": {
+                        "id": 203850,
+                        "name": "Sunrisers Eastern Cape",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 203847,
+                        "name": "Joburg Super Kings",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2682441,
+                  "series_id": 1205,
+                  "venue": "Bay Oval, Mount Maunganui",
+                  "date": "2023-01-22T00:40:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Northern Districts v Auckland at Bay Oval, Mount Maunganui, T20.",
+                  "match_subtitle": "21st Match",
+                  "home": {
+                        "id": 125736,
+                        "name": "Northern Districts",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 125724,
+                        "name": "Auckland",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2649361,
+                  "series_id": 1082,
+                  "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane (day/night)",
+                  "date": "2023-01-22T02:40:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Brisbane Heat v Melbourne Stars at Brisbane Cricket Ground, Woolloongabba, Brisbane (day/night), T20.",
+                  "match_subtitle": "51st Match",
+                  "home": {
+                        "id": 120066,
+                        "name": "Brisbane Heat",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 120069,
+                        "name": "Melbourne Stars",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2682505,
+                  "series_id": 1206,
+                  "venue": "Bay Oval, Mount Maunganui (day/night)",
+                  "date": "2023-01-22T04:30:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Northern Districts Women v Auckland Women at Bay Oval, Mount Maunganui (day/night), T20.",
+                  "match_subtitle": "21st Match",
+                  "home": {
+                        "id": 199134,
+                        "name": "Northern Districts Women",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 199146,
+                        "name": "Auckland Women",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2649363,
+                  "series_id": 1082,
+                  "venue": "Perth Stadium (night)",
+                  "date": "2023-01-22T08:15:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Perth Scorchers v Melbourne Renegades at Perth Stadium (night), T20.",
+                  "match_subtitle": "52nd Match",
+                  "home": {
+                        "id": 120081,
+                        "name": "Perth Scorchers",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 120075,
+                        "name": "Melbourne Renegades",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2693867,
+                  "series_id": 1236,
+                  "venue": "Dubai International Cricket Stadium",
+                  "date": "2023-01-22T10:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Desert Vipers v Gulf Giants at Dubai International Cricket Stadium, T20.",
+                  "match_subtitle": "12th Match",
+                  "home": {
+                        "id": 210414,
+                        "name": "Desert Vipers",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 210411,
+                        "name": "Gulf Giants",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2687929,
+                  "series_id": 1214,
+                  "venue": "Boland Park, Paarl",
+                  "date": "2023-01-22T11:30:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Paarl Royals v Pretoria Capitals at Boland Park, Paarl, T20.",
+                  "match_subtitle": "18th Match",
+                  "home": {
+                        "id": 203841,
+                        "name": "Paarl Royals",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 203853,
+                        "name": "Pretoria Capitals",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2672383,
+                  "series_id": 1395,
+                  "venue": "Senwes Park, Potchefstroom",
+                  "date": "2023-01-22T11:45:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "India Women Under-19s v Sri Lanka Women Under-19s at Senwes Park, Potchefstroom, .",
+                  "match_subtitle": "Super Six, Group 1",
+                  "home": {
+                        "id": 190497,
+                        "name": "India Women Under-19s",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190500,
+                        "name": "Sri Lanka Women Under-19s",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2672385,
+                  "series_id": 1398,
+                  "venue": "North-West University No1 Ground, Potchefstroom",
+                  "date": "2023-01-22T11:45:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Rwanda Women Under-19s v WI-WMN U19 at North-West University No1 Ground, Potchefstroom, .",
+                  "match_subtitle": "Super Six, Group 2",
+                  "home": {
+                        "id": 190506,
+                        "name": "Rwanda Women Under-19s",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190512,
+                        "name": "WI-WMN U19",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2693869,
+                  "series_id": 1236,
+                  "venue": "Zayed Cricket Stadium, Abu Dhabi (night)",
+                  "date": "2023-01-22T14:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Dubai Capitals v MI Emirates at Zayed Cricket Stadium, Abu Dhabi (night), T20.",
+                  "match_subtitle": "13th Match",
+                  "home": {
+                        "id": 210399,
+                        "name": "Dubai Capitals",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 210405,
+                        "name": "MI Emirates",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2687931,
+                  "series_id": 1214,
+                  "venue": "St George's Park, Gqeberha (day/night)",
+                  "date": "2023-01-22T15:30:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Sunrisers Eastern Cape v Durban's Super Giants at St George's Park, Gqeberha (day/night), T20.",
+                  "match_subtitle": "19th Match",
+                  "home": {
+                        "id": 203850,
+                        "name": "Sunrisers Eastern Cape",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 222036,
+                        "name": "Durban's Super Giants",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2682507,
+                  "series_id": 1206,
+                  "venue": "Basin Reserve, Wellington",
+                  "date": "2023-01-22T22:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Wellington Women v Canterbury Women at Basin Reserve, Wellington, T20.",
+                  "match_subtitle": "22nd Match",
+                  "home": {
+                        "id": 199140,
+                        "name": "Wellington Women",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 199137,
+                        "name": "Canterbury Women",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2682443,
+                  "series_id": 1205,
+                  "venue": "Basin Reserve, Wellington",
+                  "date": "2023-01-23T01:40:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Wellington v Canterbury at Basin Reserve, Wellington, T20.",
+                  "match_subtitle": "22nd Match",
+                  "home": {
+                        "id": 125721,
+                        "name": "Wellington",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 125733,
+                        "name": "Canterbury",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2696669,
+                  "series_id": 1301,
+                  "venue": "Harare Sports Club",
+                  "date": "2023-01-23T07:15:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Zimbabwe v Ireland at Harare Sports Club, .",
+                  "match_subtitle": "3rd ODI",
+                  "home": {
+                        "id": 294,
+                        "name": "Zimbabwe",
+                        "code": "ZIM"
+                  },
+                  "away": {
+                        "id": 354,
+                        "name": "Ireland",
+                        "code": "IRE"
+                  }
+            },
+            {
+                  "id": 2702157,
+                  "series_id": 1251,
+                  "venue": "Shere Bangla National Stadium, Mirpur (day/night)",
+                  "date": "2023-01-23T07:30:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Chattogram Challengers v Rangpur Riders at Shere Bangla National Stadium, Mirpur (day/night), T20.",
+                  "match_subtitle": "21st Match",
+                  "home": {
+                        "id": 155088,
+                        "name": "Chattogram Challengers",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 217212,
+                        "name": "Rangpur Riders",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2649365,
+                  "series_id": 1082,
+                  "venue": "Bellerive Oval, Hobart (night)",
+                  "date": "2023-01-23T08:15:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Hobart Hurricanes v Sydney Sixers at Bellerive Oval, Hobart (night), T20.",
+                  "match_subtitle": "53rd Match",
+                  "home": {
+                        "id": 120072,
+                        "name": "Hobart Hurricanes",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 120063,
+                        "name": "Sydney Sixers",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2672389,
+                  "series_id": 1392,
+                  "venue": "North-West University No1 Ground, Potchefstroom",
+                  "date": "2023-01-23T11:45:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Ireland Women Under-19s v Pakistan Women Under-19s at North-West University No1 Ground, Potchefstroom, .",
+                  "match_subtitle": "Super Six, Group 2",
+                  "home": {
+                        "id": 190509,
+                        "name": "Ireland Women Under-19s",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190503,
+                        "name": "Pakistan Women Under-19s",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2672387,
+                  "series_id": 1396,
+                  "venue": "Senwes Park, Potchefstroom",
+                  "date": "2023-01-23T11:45:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Australia Women Under-19s v UAE-WMN U19 at Senwes Park, Potchefstroom, .",
+                  "match_subtitle": "Super Six, Group 1",
+                  "home": {
+                        "id": 190482,
+                        "name": "Australia Women Under-19s",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190491,
+                        "name": "UAE-WMN U19",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2702159,
+                  "series_id": 1251,
+                  "venue": "Shere Bangla National Stadium, Mirpur (night)",
+                  "date": "2023-01-23T12:30:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Dhaka Dominators v Comilla Victorians at Shere Bangla National Stadium, Mirpur (night), T20.",
+                  "match_subtitle": "22nd Match",
+                  "home": {
+                        "id": 217215,
+                        "name": "Dhaka Dominators",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 155097,
+                        "name": "Comilla Victorians",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2693871,
+                  "series_id": 1236,
+                  "venue": "Dubai International Cricket Stadium (night)",
+                  "date": "2023-01-23T14:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Gulf Giants v Sharjah Warriors at Dubai International Cricket Stadium (night), T20.",
+                  "match_subtitle": "14th Match",
+                  "home": {
+                        "id": 210411,
+                        "name": "Gulf Giants",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 210408,
+                        "name": "Sharjah Warriors",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2687933,
+                  "series_id": 1214,
+                  "venue": "Newlands, Cape Town (day/night)",
+                  "date": "2023-01-23T15:30:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "MI Cape Town v Pretoria Capitals at Newlands, Cape Town (day/night), T20.",
+                  "match_subtitle": "20th Match",
+                  "home": {
+                        "id": 203838,
+                        "name": "MI Cape Town",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 203853,
+                        "name": "Pretoria Capitals",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2689039,
+                  "series_id": 1401,
+                  "venue": "Buffalo Park, East London (night)",
+                  "date": "2023-01-23T17:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "India Women v West Indies Women at Buffalo Park, East London (night), .",
+                  "match_subtitle": "3rd Match",
+                  "home": {
+                        "id": 140481,
+                        "name": "India Women",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 190629,
+                        "name": "West Indies Women",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2690203,
+                  "series_id": 1302,
+                  "venue": "North Sydney Oval, Sydney",
+                  "date": "2023-01-24T02:45:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Australia Women v Pakistan Women at North Sydney Oval, Sydney, .",
+                  "match_subtitle": "1st T20I",
+                  "home": {
+                        "id": 1134,
+                        "name": "Australia Women",
+                        "code": "AUS(W)"
+                  },
+                  "away": {
+                        "id": 190344,
+                        "name": "Pakistan Women",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666633,
+                  "series_id": 1093,
+                  "venue": "Eden Gardens, Kolkata",
+                  "date": "2023-01-24T03:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Bengal v Odisha at Eden Gardens, Kolkata, First Class.",
+                  "match_subtitle": "Elite, Group A",
+                  "home": {
+                        "id": 133863,
+                        "name": "Bengal",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133866,
+                        "name": "Odisha",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666645,
+                  "series_id": 1093,
+                  "venue": "Keenan Stadium, Jamshedpur",
+                  "date": "2023-01-24T03:30:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Jharkhand v Karnataka at Keenan Stadium, Jamshedpur, First Class.",
+                  "match_subtitle": "Elite, Group C",
+                  "home": {
+                        "id": 133869,
+                        "name": "Jharkhand",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133833,
+                        "name": "Karnataka",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666649,
+                  "series_id": 1093,
+                  "venue": "Barkatullah Khan Stadium, Jodhpur",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Rajasthan v Services at Barkatullah Khan Stadium, Jodhpur, First Class.",
+                  "match_subtitle": "Elite, Group C",
+                  "home": {
+                        "id": 133911,
+                        "name": "Rajasthan",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133902,
+                        "name": "Services",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666639,
+                  "series_id": 1093,
+                  "venue": "Brabourne Stadium, Mumbai",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Mumbai v Maharashtra at Brabourne Stadium, Mumbai, First Class.",
+                  "match_subtitle": "Elite, Group B",
+                  "home": {
+                        "id": 133887,
+                        "name": "Mumbai",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133878,
+                        "name": "Maharashtra",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666651,
+                  "series_id": 1093,
+                  "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Punjab v Vidarbha at Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh, First Class.",
+                  "match_subtitle": "Elite, Group D",
+                  "home": {
+                        "id": 133845,
+                        "name": "Punjab",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133914,
+                        "name": "Vidarbha",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666627,
+                  "series_id": 1093,
+                  "venue": "CH Bansi Lal Cricket Stadium, Lahli, Rohtak",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Haryana v Uttarakhand at CH Bansi Lal Cricket Stadium, Lahli, Rohtak, First Class.",
+                  "match_subtitle": "Elite, Group A",
+                  "home": {
+                        "id": 133932,
+                        "name": "Haryana",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133854,
+                        "name": "Uttarakhand",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666641,
+                  "series_id": 1093,
+                  "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Tamil Nadu v Saurashtra at MA Chidambaram Stadium, Chepauk, Chennai, First Class.",
+                  "match_subtitle": "Elite, Group B",
+                  "home": {
+                        "id": 133872,
+                        "name": "Tamil Nadu",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133899,
+                        "name": "Saurashtra",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666653,
+                  "series_id": 1093,
+                  "venue": "Sector 16 Stadium, Chandigarh",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Chandigarh v Jammu & Kashmir at Sector 16 Stadium, Chandigarh, First Class.",
+                  "match_subtitle": "Elite, Group D",
+                  "home": {
+                        "id": 133893,
+                        "name": "Chandigarh",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133836,
+                        "name": "Jammu & Kashmir",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666629,
+                  "series_id": 1093,
+                  "venue": "Atal Bihari Vajpayee Stadium, Nadaun",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Himachal Pradesh v Uttar Pradesh at Atal Bihari Vajpayee Stadium, Nadaun, First Class.",
+                  "match_subtitle": "Elite, Group A",
+                  "home": {
+                        "id": 133842,
+                        "name": "Himachal Pradesh",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133848,
+                        "name": "Uttar Pradesh",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666643,
+                  "series_id": 1093,
+                  "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Chhattisgarh v Goa at Shaheed Veer Narayan Singh International Stadium, Raipur, First Class.",
+                  "match_subtitle": "Elite, Group C",
+                  "home": {
+                        "id": 133839,
+                        "name": "Chhattisgarh",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133944,
+                        "name": "Goa",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666655,
+                  "series_id": 1093,
+                  "venue": "Holkar Cricket Stadium, Indore",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Madhya Pradesh v Tripura at Holkar Cricket Stadium, Indore, First Class.",
+                  "match_subtitle": "Elite, Group D",
+                  "home": {
+                        "id": 133941,
+                        "name": "Madhya Pradesh",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133860,
+                        "name": "Tripura",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666631,
+                  "series_id": 1093,
+                  "venue": "Moti Bagh Stadium, Vadodara",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Baroda v Nagaland at Moti Bagh Stadium, Vadodara, First Class.",
+                  "match_subtitle": "Elite, Group A",
+                  "home": {
+                        "id": 133851,
+                        "name": "Baroda",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133896,
+                        "name": "Nagaland",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666657,
+                  "series_id": 1093,
+                  "venue": "Sardar Patel Stadium B Ground, Motera, Ahmedabad",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Gujarat v Railways at Sardar Patel Stadium B Ground, Motera, Ahmedabad, First Class.",
+                  "match_subtitle": "Elite, Group D",
+                  "home": {
+                        "id": 133875,
+                        "name": "Gujarat",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133857,
+                        "name": "Railways",
+                        "code": ""
+                  }
+            },
+            {
+                  "id": 2666647,
+                  "series_id": 1093,
+                  "venue": "Sree Lakshmi Narayana Institute of Medical Sciences Cricket Ground",
+                  "date": "2023-01-24T04:00:00+00:00",
+                  "status": "Fixture",
+                  "result": "",
+                  "match_title": "Puducherry v Kerala at Sree Lakshmi Narayana Institute of Medical Sciences Cricket Ground, First Class.",
+                  "match_subtitle": "Elite, Group C",
+                  "home": {
+                        "id": 133938,
+                        "name": "Puducherry",
+                        "code": ""
+                  },
+                  "away": {
+                        "id": 133935,
+                        "name": "Kerala",
+                        "code": ""
+                  }
+            }
+      ]
+}

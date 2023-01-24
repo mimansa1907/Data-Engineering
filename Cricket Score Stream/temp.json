@@ -1,0 +1,623 @@
+{
+      "results": {
+            "fixture": {
+                  "id": 2697307,
+                  "series_id": 1303,
+                  "match_title": "India v New Zealand at Shaheed Veer Narayan Singh International Stadium, Raipur (day/night), .",
+                  "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur (day/night)",
+                  "start_date": "2023-01-21T08:00:00+00:00",
+                  "end_date": "2023-01-21T08:00:00+00:00",
+                  "dates": [
+                        {
+                              "date": "2023-01-21T08:00:00+00:00",
+                              "match_subtitle": "2nd ODI"
+                        }
+                  ],
+                  "home": {
+                        "id": 285,
+                        "name": "India",
+                        "code": "IND"
+                  },
+                  "away": {
+                        "id": 282,
+                        "name": "New Zealand",
+                        "code": "NZL"
+                  },
+                  "series": {
+                        "series_id": 1303,
+                        "series_name": "New Zealand tour of India",
+                        "status": "",
+                        "season": "2022/23",
+                        "updated_at": "2023-01-20T23:00:06.000000Z"
+                  }
+            },
+            "live_details": {
+                  "match_summary": {
+                        "in_play": "Yes",
+                        "result": "No",
+                        "status": "Drinks. New Zealand Innings - 103/7 after 30.1 overs",
+                        "toss": "India, elected to field first",
+                        "home_scores": "",
+                        "away_scores": "103/7 (30.1/50 ov)"
+                  },
+                  "officials": {
+                        "umpire_1": "KN Ananthapadmanabhan",
+                        "umpire_2": "Nitin Menon",
+                        "umpire_tv": "Jayaraman Madanagopal",
+                        "referee": "Javagal Srinath",
+                        "umpire_reserve": "Anil Chaudhary"
+                  },
+                  "scorecard": [
+                        {
+                              "innings_number": 1,
+                              "current": true,
+                              "title": "New Zealand Innings",
+                              "overs": "30.1",
+                              "runs": 103,
+                              "wickets": "7",
+                              "extras": 7,
+                              "extras_detail": "lb 2, w 5",
+                              "fow": "1-0 (Finn Allen, 0.5 ov), 2-8 (Henry Nicholls, 5.3 ov), 3-9 (Daryl Mitchell, 6.1 ov), 4-15 (Devon Conway, 9.4 ov), 5-15 (Tom Latham, 10.3 ov), 6-56 (Michael Bracewell, 18.3 ov), 7-103 (Mitchell Santner, 30.1 ov)",
+                              "batting": [
+                                    {
+                                          "bat_order": 1,
+                                          "player_id": 2879289,
+                                          "player_name": "Finn Allen",
+                                          "how_out": " b Mohammed Shami",
+                                          "minutes": "-",
+                                          "runs": 0,
+                                          "balls": 5,
+                                          "fours": 0,
+                                          "sixes": 0,
+                                          "strike_rate": "0.00"
+                                    },
+                                    {
+                                          "bat_order": 2,
+                                          "player_id": 1137432,
+                                          "player_name": "Devon Conway",
+                                          "how_out": "c &amp; b Pandya",
+                                          "minutes": "-",
+                                          "runs": 7,
+                                          "balls": 16,
+                                          "fours": 1,
+                                          "sixes": 0,
+                                          "strike_rate": "43.75"
+                                    },
+                                    {
+                                          "bat_order": 3,
+                                          "player_id": 1618545,
+                                          "player_name": "Henry Nicholls",
+                                          "how_out": "c Shubman Gill b Mohammed Siraj",
+                                          "minutes": "-",
+                                          "runs": 2,
+                                          "balls": 20,
+                                          "fours": 0,
+                                          "sixes": 0,
+                                          "strike_rate": "10.00"
+                                    },
+                                    {
+                                          "bat_order": 4,
+                                          "player_id": 1145241,
+                                          "player_name": "Daryl Mitchell",
+                                          "how_out": "c &amp; b Mohammed Shami",
+                                          "minutes": "-",
+                                          "runs": 1,
+                                          "balls": 3,
+                                          "fours": 0,
+                                          "sixes": 0,
+                                          "strike_rate": "33.33"
+                                    },
+                                    {
+                                          "bat_order": 5,
+                                          "player_id": 1166418,
+                                          "player_name": "Tom Latham",
+                                          "how_out": "c Shubman Gill b Thakur",
+                                          "minutes": "-",
+                                          "runs": 1,
+                                          "balls": 17,
+                                          "fours": 0,
+                                          "sixes": 0,
+                                          "strike_rate": "5.88"
+                                    },
+                                    {
+                                          "bat_order": 6,
+                                          "player_id": 2470539,
+                                          "player_name": "Glenn Phillips",
+                                          "how_out": "not out",
+                                          "minutes": "-",
+                                          "runs": 36,
+                                          "balls": 51,
+                                          "fours": 5,
+                                          "sixes": 0,
+                                          "strike_rate": "70.58"
+                                    },
+                                    {
+                                          "bat_order": 7,
+                                          "player_id": 980916,
+                                          "player_name": "Michael Bracewell",
+                                          "how_out": "c Ishan Kishan b Mohammed Shami",
+                                          "minutes": "-",
+                                          "runs": 22,
+                                          "balls": 30,
+                                          "fours": 4,
+                                          "sixes": 0,
+                                          "strike_rate": "73.33"
+                                    },
+                                    {
+                                          "bat_order": 8,
+                                          "player_id": 1508154,
+                                          "player_name": "Mitchell Santner",
+                                          "how_out": " b Pandya",
+                                          "minutes": "-",
+                                          "runs": 27,
+                                          "balls": 39,
+                                          "fours": 3,
+                                          "sixes": 0,
+                                          "strike_rate": "69.23"
+                                    }
+                              ],
+                              "still_to_bat": [
+                                    {
+                                          "player_id": 2888505,
+                                          "player_name": "Henry Shipley"
+                                    },
+                                    {
+                                          "player_id": 1481331,
+                                          "player_name": "Lockie Ferguson"
+                                    },
+                                    {
+                                          "player_id": 2564739,
+                                          "player_name": "Blair Tickner"
+                                    }
+                              ],
+                              "bowling": [
+                                    {
+                                          "player_id": 1445700,
+                                          "player_name": "Mohammed Shami",
+                                          "overs": "6",
+                                          "maidens": 1,
+                                          "runs_conceded": 18,
+                                          "wickets": 3,
+                                          "economy": "3.00",
+                                          "dot_balls": 30,
+                                          "fours": 3,
+                                          "sixes": 0,
+                                          "extras": "3"
+                                    },
+                                    {
+                                          "player_id": 2822931,
+                                          "player_name": "Mohammed Siraj",
+                                          "overs": "6",
+                                          "maidens": 1,
+                                          "runs_conceded": 10,
+                                          "wickets": 1,
+                                          "economy": "1.66",
+                                          "dot_balls": 30,
+                                          "fours": 1,
+                                          "sixes": 0,
+                                          "extras": "0"
+                                    },
+                                    {
+                                          "player_id": 1425855,
+                                          "player_name": "Shardul Thakur",
+                                          "overs": "6",
+                                          "maidens": 1,
+                                          "runs_conceded": 26,
+                                          "wickets": 1,
+                                          "economy": "4.33",
+                                          "dot_balls": 26,
+                                          "fours": 5,
+                                          "sixes": 0,
+                                          "extras": "1"
+                                    },
+                                    {
+                                          "player_id": 1876125,
+                                          "player_name": "Hardik Pandya",
+                                          "overs": "5.1",
+                                          "maidens": 2,
+                                          "runs_conceded": 16,
+                                          "wickets": 2,
+                                          "economy": "3.09",
+                                          "dot_balls": 24,
+                                          "fours": 2,
+                                          "sixes": 0,
+                                          "extras": "1"
+                                    },
+                                    {
+                                          "player_id": 1677717,
+                                          "player_name": "Kuldeep Yadav",
+                                          "overs": "6",
+                                          "maidens": 0,
+                                          "runs_conceded": 26,
+                                          "wickets": 0,
+                                          "economy": "4.33",
+                                          "dot_balls": 16,
+                                          "fours": 2,
+                                          "sixes": 0,
+                                          "extras": "0"
+                                    },
+                                    {
+                                          "player_id": 2159157,
+                                          "player_name": "Washington Sundar",
+                                          "overs": "1",
+                                          "maidens": 0,
+                                          "runs_conceded": 5,
+                                          "wickets": 0,
+                                          "economy": "5.00",
+                                          "dot_balls": 2,
+                                          "fours": 0,
+                                          "sixes": 0,
+                                          "extras": "0"
+                                    }
+                              ]
+                        }
+                  ],
+                  "stats": {
+                        "current_run_rate": "3.41",
+                        "min_remaining_overs": "",
+                        "partnership_player_1": "Mitchell Santner",
+                        "partnership_player_1_runs": 27,
+                        "partnership_player_1_balls": 39,
+                        "partnership_player_2": "Glenn Phillips",
+                        "partnership_player_2_runs": 19,
+                        "partnership_player_2_balls": 31,
+                        "partnership_run_rate": "4.02",
+                        "partnership_overs": "11.4",
+                        "partnership_runs": 47,
+                        "last_18_balls": [
+                              {
+                                    "isDismissal": true,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 30,
+                                    "runs": 0,
+                                    "isLegBye": false,
+                                    "currentOverBall": 1
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": true,
+                                    "currentOver": 29,
+                                    "runs": 0,
+                                    "isLegBye": false,
+                                    "currentOverBall": 6
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 29,
+                                    "runs": 0,
+                                    "isLegBye": false,
+                                    "currentOverBall": 5
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 29,
+                                    "runs": 1,
+                                    "isLegBye": false,
+                                    "currentOverBall": 4
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 29,
+                                    "runs": 2,
+                                    "isLegBye": false,
+                                    "currentOverBall": 3
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 29,
+                                    "runs": 1,
+                                    "isLegBye": false,
+                                    "currentOverBall": 2
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 29,
+                                    "runs": 1,
+                                    "isLegBye": false,
+                                    "currentOverBall": 1
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": true,
+                                    "currentOver": 28,
+                                    "runs": 0,
+                                    "isLegBye": false,
+                                    "currentOverBall": 6
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 28,
+                                    "runs": 1,
+                                    "isLegBye": false,
+                                    "currentOverBall": 5
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 28,
+                                    "runs": 0,
+                                    "isLegBye": false,
+                                    "currentOverBall": 4
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 28,
+                                    "runs": 0,
+                                    "isLegBye": false,
+                                    "currentOverBall": 3
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 28,
+                                    "runs": 1,
+                                    "isLegBye": false,
+                                    "currentOverBall": 2
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 28,
+                                    "runs": 1,
+                                    "isLegBye": false,
+                                    "currentOverBall": 1
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": true,
+                                    "currentOver": 27,
+                                    "runs": 1,
+                                    "isLegBye": false,
+                                    "currentOverBall": 6
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": true,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 27,
+                                    "runs": 4,
+                                    "isLegBye": false,
+                                    "currentOverBall": 5
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 27,
+                                    "runs": 0,
+                                    "isLegBye": false,
+                                    "currentOverBall": 4
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": true,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 27,
+                                    "runs": 4,
+                                    "isLegBye": false,
+                                    "currentOverBall": 3
+                              },
+                              {
+                                    "isDismissal": false,
+                                    "isBoundary": false,
+                                    "isWide": false,
+                                    "isMaiden": false,
+                                    "isNoBall": false,
+                                    "isBye": false,
+                                    "isOverEnd": false,
+                                    "currentOver": 27,
+                                    "runs": 1,
+                                    "isLegBye": false,
+                                    "currentOverBall": 2
+                              }
+                        ],
+                        "last_update": "2023-01-21T10:25:29+00:00"
+                  },
+                  "teamsheets": {
+                        "home": [
+                              {
+                                    "player_id": 102318,
+                                    "player_name": "Rohit Sharma",
+                                    "position": "Unknown"
+                              },
+                              {
+                                    "player_id": 3210531,
+                                    "player_name": "Shubman Gill",
+                                    "position": "Unknown"
+                              },
+                              {
+                                    "player_id": 761418,
+                                    "player_name": "Virat Kohli",
+                                    "position": "Unknown"
+                              },
+                              {
+                                    "player_id": 2161425,
+                                    "player_name": "Ishan Kishan",
+                                    "position": "Wicketkeeper"
+                              },
+                              {
+                                    "player_id": 1339533,
+                                    "player_name": "Suryakumar Yadav",
+                                    "position": "Unknown"
+                              },
+                              {
+                                    "player_id": 1876125,
+                                    "player_name": "Hardik Pandya",
+                                    "position": "Allrounder"
+                              },
+                              {
+                                    "player_id": 2159157,
+                                    "player_name": "Washington Sundar",
+                                    "position": "Allrounder"
+                              },
+                              {
+                                    "player_id": 1425855,
+                                    "player_name": "Shardul Thakur",
+                                    "position": "Bowler"
+                              },
+                              {
+                                    "player_id": 1677717,
+                                    "player_name": "Kuldeep Yadav",
+                                    "position": "Bowler"
+                              },
+                              {
+                                    "player_id": 1445700,
+                                    "player_name": "Mohammed Shami",
+                                    "position": "Bowler"
+                              },
+                              {
+                                    "player_id": 2822931,
+                                    "player_name": "Mohammed Siraj",
+                                    "position": "Bowler"
+                              }
+                        ],
+                        "away": [
+                              {
+                                    "player_id": 2879289,
+                                    "player_name": "Finn Allen",
+                                    "position": "Unknown"
+                              },
+                              {
+                                    "player_id": 1137432,
+                                    "player_name": "Devon Conway",
+                                    "position": "Unknown"
+                              },
+                              {
+                                    "player_id": 1618545,
+                                    "player_name": "Henry Nicholls",
+                                    "position": "Unknown"
+                              },
+                              {
+                                    "player_id": 1145241,
+                                    "player_name": "Daryl Mitchell",
+                                    "position": "Allrounder"
+                              },
+                              {
+                                    "player_id": 1166418,
+                                    "player_name": "Tom Latham",
+                                    "position": "Wicketkeeper"
+                              },
+                              {
+                                    "player_id": 2470539,
+                                    "player_name": "Glenn Phillips",
+                                    "position": "Unknown"
+                              },
+                              {
+                                    "player_id": 980916,
+                                    "player_name": "Michael Bracewell",
+                                    "position": "Allrounder"
+                              },
+                              {
+                                    "player_id": 1508154,
+                                    "player_name": "Mitchell Santner",
+                                    "position": "Allrounder"
+                              },
+                              {
+                                    "player_id": 2888505,
+                                    "player_name": "Henry Shipley",
+                                    "position": "Unknown"
+                              },
+                              {
+                                    "player_id": 1481331,
+                                    "player_name": "Lockie Ferguson",
+                                    "position": "Bowler"
+                              },
+                              {
+                                    "player_id": 2564739,
+                                    "player_name": "Blair Tickner",
+                                    "position": "Bowler"
+                              }
+                        ]
+                  }
+            }
+      }
+}
