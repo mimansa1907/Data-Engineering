@@ -26,7 +26,7 @@ dag_args = {
 # TASK 1.2
 # define the DAG
 dag = DAG(
-    DAGid = 'ETL_toll_data',
+    'ETL_toll_data',
     default_args = dag_args,
     description='Unzip folder and store in form of csv files',
     schedule_interval=timedelta(days=1),

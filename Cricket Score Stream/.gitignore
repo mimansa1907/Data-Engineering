@@ -1,0 +1,21 @@
+myenv
+*.pyc
+.DS_Store
+.env
+trialcodes
+app1.py
+Data distribution
+data.json
+data1.json
+data2.json
+data3.json
+data4.json
+datafromapi.py
+Fixture.csv
+GetData.ipynb
+getdatafromfixture.py
+getfixtures.py
+Matches.csv
+Untitled.ipynb
+apicredentials.json
+.ipynb_checkpoints
